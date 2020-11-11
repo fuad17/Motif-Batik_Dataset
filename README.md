@@ -1,1 +1,0 @@
-# Motif-Batik_Dataset
